@@ -1,5 +1,7 @@
 # Scrapping content from [ConsultaCA](https://consultaca.com)
 
+Consulte com facilidade e rapidez o Certificado de Aprovação (CA) dos Equipamentos de Proteção Individual (EPI) fornecido pelo Ministério do Trabalho.
+
 ## Run using:
 ```npm install && npx tsx index.ts```
 
