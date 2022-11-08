@@ -1,4 +1,4 @@
-# Scrapping content from https://consultaca.com.
+# Scrapping content from [ConsultaCA](https://consultaca.com)
 
 ## Run using:
 ```npm install && npx tsx index.ts```
